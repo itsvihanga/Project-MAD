@@ -1,4 +1,4 @@
-package com.example.sampalproject01
+package com.example.sampalproject01.Model
 
 data class EmployeeModel(
     var empId: String? = null,
