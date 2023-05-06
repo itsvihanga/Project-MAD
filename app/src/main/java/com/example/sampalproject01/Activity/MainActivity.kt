@@ -1,11 +1,10 @@
-package com.example.sampalproject01
+package com.example.sampalproject01.Activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.google.firebase.database.DatabaseReference
-import com.google.firebase.database.FirebaseDatabase
+import com.example.sampalproject01.R
 
 class MainActivity : AppCompatActivity() {
 

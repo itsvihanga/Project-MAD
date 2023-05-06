@@ -1,4 +1,4 @@
-package com.example.sampalproject01
+package com.example.sampalproject01.Activity
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
+import com.example.sampalproject01.Model.EmployeeModel
+import com.example.sampalproject01.R
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 
