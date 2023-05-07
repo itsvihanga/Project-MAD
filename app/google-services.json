@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676630943872",
+    "firebase_url": "https://inquiry-5894b-default-rtdb.firebaseio.com",
+    "project_id": "inquiry-5894b",
+    "storage_bucket": "inquiry-5894b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676630943872:android:2e9dcb075b8d3fd63dae65",
+        "android_client_info": {
+          "package_name": "com.example.inquirymad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676630943872-a2gnq3dot396ugvbu04b3to817jkfrtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BHwDG_GOOg54T-vqFWufXlNMSm767Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676630943872-a2gnq3dot396ugvbu04b3to817jkfrtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
