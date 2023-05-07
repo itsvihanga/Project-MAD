@@ -17,19 +17,19 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-//        val firebase : DatabaseReference = FirebaseDatabase.getInstance().getReference()
+        //val firebase : DatabaseReference = FirebaseDatabase.getInstance().getReference()
+
         btnInsertData = findViewById(R.id.btnInsertData)
         btnFetchData = findViewById(R.id.btnFetchData)
 
         btnInsertData.setOnClickListener{
-            val intent = Intent(this, InsertionActivity::class.java)
+            val intent = Intent(this, InsertBill::class.java)
             startActivity(intent)
         }
         btnFetchData.setOnClickListener {
-            val intent = Intent(this, FetchingActivity::class.java)
+            val intent = Intent(this, FetchBill::class.java)
             startActivity(intent)
         }
     }
-
 
 }

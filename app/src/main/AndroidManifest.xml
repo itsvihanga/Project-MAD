@@ -18,6 +18,24 @@
             android:name=".InsertionActivity"
             android:exported="false" />
         <activity
+            android:name=".InsertBill"
+            android:exported="false" />
+        <activity
+            android:name=".FetchBill"
+            android:exported="false" />
+        <activity
+            android:name=".BillDetails"
+            android:exported="false" />
+        <activity
+            android:name=".BillModel"
+            android:exported="false" />
+        <activity
+            android:name=".BillAdapter"
+            android:exported="false" />
+        <activity
+            android:name=".BillDetailsUser"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
