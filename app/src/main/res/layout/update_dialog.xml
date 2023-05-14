@@ -9,10 +9,10 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:height="60dp"
+        android:height="55dp"
         android:text="Update Product"
         android:textAlignment="center"
-        android:textColor="#009688"
+        android:textColor="#96001E"
         android:textSize="30dp"
         android:textStyle="bold" />
 
@@ -30,7 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="75dp"
         android:layout_marginTop="40dp"
-        android:hint="House Name"
+        android:hint="Location Name"
         android:inputType="textPersonName" />
 
     <EditText
@@ -56,7 +56,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        android:backgroundTint="#008080"
+        android:backgroundTint="#D80910"
         android:text="Update" />
 
 
